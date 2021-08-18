@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import React, { useState  } from 'react';
 
 import Icon from "./components/Icon";
